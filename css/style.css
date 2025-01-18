@@ -4,7 +4,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff; /* Changed to white */
+  background-color: #555; /* Changed to white */
   overflow-x: hidden;
 }
 
@@ -1322,7 +1322,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #222831;
+  background-color: #262679;
   color: #ffffff;
   padding: 75px 0 40px 0;
   text-align: center;
